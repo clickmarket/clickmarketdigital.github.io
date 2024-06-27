@@ -1,0 +1,9 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/adfluent.png": "static/adfluent-06365db9f22ea92fd1d721d0841ede23.png",
+  "static/cialo.png": "static/cialo-b5c7c391a1a8fa1360258eace990e7c3.png",
+  "static/header-main.jpg": "static/header-main-f0865aea0afd611642833e142b7e767b.jpg",
+  "static/logo.png": "static/logo-eeae7f5101f81b461d5b2f8ca0221cbd.png",
+  "static/mobber.png": "static/mobber-91106247507a72fcf6cd7651ce29a758.png"
+}
